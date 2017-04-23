@@ -45,7 +45,7 @@
               .projection(projection);
 
           // send a JSON request to get the world boundaries
-          var cityBoundariesURL = "seattlestreets-topo.json.txt";
+          var cityBoundariesURL = "seattlestreets-topo.json";
           d3.json(cityBoundariesURL, function(city) {
 
             // console.log(city.objects.streets); // log the geometry for the first feature to the console
