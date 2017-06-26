@@ -7,3 +7,6 @@ Series of visualization experiments using D3 and Seattle's Open Data API to unde
 
 ## Credits
 seattlestreets-topo.json from https://github.com/recombinators/seattle
+
+## Related Projects
+Tim Gartner's Seattle Collision dashboard http://seattlecollisions.timganter.io/
